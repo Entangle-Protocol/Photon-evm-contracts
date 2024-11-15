@@ -1,0 +1,22 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+docs/notebooks
+cache-zk
+artifacts-zk
+
+.vscode
+
+#Hardhat files
+cache
+artifacts
+
+# OS X
+.DS_Store
+
+dist
+
+.npmrc
